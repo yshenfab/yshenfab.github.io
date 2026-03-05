@@ -12,7 +12,7 @@ supervised by [Prof. Chin-Teng Lin](https://scholar.google.com/citations?user=nu
 My research focuses on AI and its applications in multi-agent/swarm systems.
 
 Previously, I accumulated over 10 years of industry experience in the fields of AI and robotics.
-I received my B.E. degree from Northwestern Polytechnical University in 2013.
+I received my B.E. degree from Northwestern Polytechnical University.
 
 I am **<span style="color:red">open for collaboration</span>**. Please feel free to reach out if you are interested.
 
