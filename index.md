@@ -16,6 +16,7 @@ AI, Robotics, Multi-Agent Systems, Swarm Intelligence, Reinforcement Learning
 
 ## News
 
+- [2026/08] GeoSDF-Diff: Geometry-Aware Diffusion Planning for Collision-Free Trajectories, International Conference on Neural Information Processing (ICONIP) 2026
 - [2026/07] MAPF-World: Action World Model for Multi-Agent Path Finding, IEEE Robotics and Automation Letters (RA-L) 2026
 - [2026/07] Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation, Robotics: Science and Systems (RSS) 2026 Workshop
 - [2026/06] BrainStack: Neuro-MoE with Functionally Guided Expert Routing for EEG-Based Language Decoding, IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) Findings 2026
