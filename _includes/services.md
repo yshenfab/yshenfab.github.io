@@ -3,9 +3,13 @@
 <h4 style="margin:0 10px 0;">Program Committee & Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>AAAI</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>ICRA</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>RSS</autocolor></a></li>
+  AAAI, AAMAS, ICRA, SSCI, DMBD
+  <!-- <li><a href="https://aaai.org/conference/aaai/aaai-27/"><autocolor>AAAI</autocolor></a></li> -->
+  <!-- <li><a href="https://2026.ieee-icra.org/"><autocolor>ICRA</autocolor></a></li> -->
+  <!-- <li><a href="https://roboticsconference.org/"><autocolor>RSS</autocolor></a></li> -->
+  <!-- <li><a href="https://warwick.ac.uk/fac/sci/dcs/aamas2027/"><autocolor>AAMAS</autocolor></a></li> -->
+  <!-- <li><a href="https://attend.ieee.org/ssci-2027/"><autocolor>SSCI</autocolor></a></li> -->
+  <!-- <li><a href="https://www.iasei.org/dmbd2026/"><autocolor>DMBD</autocolor></a></li> -->
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4> -->
