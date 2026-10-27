@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I received my B.E. degree from Northwestern Polytechnical University, followed by two years of graduate study at the University of Notre Dame. I bring over a decade of industry and entrepreneurial experience in AI and robotics, having co-founded multiple startups.
+I received my B.E. degree from Northwestern Polytechnical University (NPU), followed by two years of graduate study at the University of Notre Dame (ND). I bring over a decade of industry and entrepreneurial experience in AI and robotics, having co-founded multiple startups.
 
 Currently, I am a Ph.D. candidate at University of Technology Sydney (UTS), Australian AI Institute (AAII), supervised by [Prof. Chin-Teng Lin](https://scholar.google.com/citations?user=nubkF1cAAAAJ) and [Prof. Yuhui Shi](https://scholar.google.com/citations?user=xSvAHWgAAAAJ).
 
@@ -16,6 +16,7 @@ AI, Robotics, Multi-Agent Systems, Swarm Intelligence, Reinforcement Learning
 
 ## News
 
+- [2026/10] Solving Multi-Robot Task Allocation via Dual-Space Niching Particle Swarm Optimization, Swarm and Evolutionary Computation 2026
 - [2026/07] MAPF-World: Action World Model for Multi-Agent Path Finding, IEEE Robotics and Automation Letters (RA-L) 2026
 - [2026/07] Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation, Robotics: Science and Systems (RSS) 2026 Workshop
 - [2026/06] BrainStack: Neuro-MoE with Functionally Guided Expert Routing for EEG-Based Language Decoding, IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) Findings 2026
