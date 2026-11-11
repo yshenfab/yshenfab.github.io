@@ -4,18 +4,24 @@ layout: homepage
 
 ## About Me
 
-I received my B.E. degree from Northwestern Polytechnical University (NPU), followed by two years of graduate study at the University of Notre Dame (ND). I bring over a decade of industry and entrepreneurial experience in AI and robotics, having co-founded multiple startups.
-
-Currently, I am a Ph.D. candidate at University of Technology Sydney (UTS), Australian AI Institute (AAII), supervised by [Prof. Chin-Teng Lin](https://scholar.google.com/citations?user=nubkF1cAAAAJ) and [Prof. Yuhui Shi](https://scholar.google.com/citations?user=xSvAHWgAAAAJ).
+I bring over a decade of industry and entrepreneurial experience in AI and robotics, having co-founded multiple startups. Currently, I am a Ph.D. candidate at University of Technology Sydney (UTS), Australian AI Institute (AAII), supervised by [Prof. Chin-Teng Lin](https://scholar.google.com/citations?user=nubkF1cAAAAJ) and [Prof. Yuhui Shi](https://scholar.google.com/citations?user=xSvAHWgAAAAJ).
 
 I am open for collaboration. Please feel free to reach out if you are interested.
 
+## Education
+
+- 2024-present, University of Technology Sydney, Australia
+- 2014-2016, University of Notre Dame, United States
+- 2009-2013, Northwestern Polytechnical University, China
+
 ## Research Interests
 
-AI, Robotics, Multi-Agent Systems, Swarm Intelligence, Reinforcement Learning
+AI, Robotics, Multi-Agent Systems, Swarm Intelligence, Reinforcement Learning, Embodied AI
 
 ## News
 
+- [2026/11] Decentralized Pattern Formation for Swarm Robots with Limited Local Interactions, 2027 IEEE Symposium Series on Computational Intelligence (SSCI 2027)
+- [2026/11] VTShift: Compound-Shift-Aware Visuo-Tactile Fusion for Robot Teaching Recognition, 2027 IEEE Symposium Series on Computational Intelligence (SSCI 2027)
 - [2026/10] Solving Multi-Robot Task Allocation via Dual-Space Niching Particle Swarm Optimization, Swarm and Evolutionary Computation 2026
 - [2026/07] MAPF-World: Action World Model for Multi-Agent Path Finding, IEEE Robotics and Automation Letters (RA-L) 2026
 - [2026/07] Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation, Robotics: Science and Systems (RSS) 2026 Workshop
