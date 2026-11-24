@@ -20,15 +20,23 @@ AI, Robotics, Multi-Agent Systems, Swarm Intelligence, Reinforcement Learning, E
 
 ## News
 
-- [2026/11] Decentralized Pattern Formation for Swarm Robots with Limited Local Interactions, SSCI 2027
-- [2026/11] VTShift: Compound-Shift-Aware Visuo-Tactile Fusion for Robot Teaching Recognition, SSCI 2027
-- [2026/10] Solving Multi-Robot Task Allocation via Dual-Space Niching Particle Swarm Optimization, Swarm and Evolutionary Computation
-- [2026/08] GeoSDF-Diff: Geometry-Aware Diffusion Planning for Collision-Free Trajectories, ICONIP 2026
-- [2026/07] MAPF-World: Action World Model for Multi-Agent Path Finding, RA-L
-- [2026/07] Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation, RSS 2026 Workshop
-- [2026/06] BrainStack: Neuro-MoE with Functionally Guided Expert Routing for EEG-Based Language Decoding, CVPR Findings 2026
-- [2026/05] An Empirical Study of Multi-Agent Collaboration for Automated Research, ICSI 2026
-- [2026/04] Self-Adaptive Low-Rank Adaptation for Class-Incremental Learning, ICRP 2026
+[2026/11] Decentralized Pattern Formation for Swarm Robots with Limited Local Interactions, SSCI 2027
+
+[2026/11] VTShift: Compound-Shift-Aware Visuo-Tactile Fusion for Robot Teaching Recognition, SSCI 2027
+
+[2026/10] Solving Multi-Robot Task Allocation via Dual-Space Niching Particle Swarm Optimization, Swarm and Evolutionary Computation
+
+[2026/08] GeoSDF-Diff: Geometry-Aware Diffusion Planning for Collision-Free Trajectories, ICONIP 2026
+
+[2026/07] MAPF-World: Action World Model for Multi-Agent Path Finding, RA-L
+
+[2026/07] Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation, RSS 2026 Workshop
+
+[2026/06] BrainStack: Neuro-MoE with Functionally Guided Expert Routing for EEG-Based Language Decoding, CVPR Findings 2026
+
+[2026/05] An Empirical Study of Multi-Agent Collaboration for Automated Research, ICSI 2026
+
+[2026/04] Self-Adaptive Low-Rank Adaptation for Class-Incremental Learning, ICPR 2026
 
 <!-- {% include_relative _includes/publications.md %} -->
 
