@@ -20,23 +20,15 @@ AI, Robotics, Multi-Agent Systems, Swarm Intelligence, Reinforcement Learning, E
 
 ## News
 
-[2026/11] Decentralized Pattern Formation for Swarm Robots with Limited Local Interactions, SSCI 2027
-
-[2026/11] VTShift: Compound-Shift-Aware Visuo-Tactile Fusion for Robot Teaching Recognition, SSCI 2027
-
-[2026/10] Solving Multi-Robot Task Allocation via Dual-Space Niching Particle Swarm Optimization, Swarm and Evolutionary Computation
-
-[2026/08] GeoSDF-Diff: Geometry-Aware Diffusion Planning for Collision-Free Trajectories, ICONIP 2026
-
-[2026/07] MAPF-World: Action World Model for Multi-Agent Path Finding, RA-L
-
-[2026/07] Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation, RSS 2026 Workshop
-
-[2026/06] BrainStack: Neuro-MoE with Functionally Guided Expert Routing for EEG-Based Language Decoding, CVPR Findings 2026
-
-[2026/05] An Empirical Study of Multi-Agent Collaboration for Automated Research, ICSI 2026
-
-[2026/04] Self-Adaptive Low-Rank Adaptation for Class-Incremental Learning, ICPR 2026
+- [2026/11] Decentralized Pattern Formation for Swarm Robots with Limited Local Interactions, IEEE Symposium Series on Computational Intelligence (SSCI) 2027
+- [2026/11] VTShift: Compound-Shift-Aware Visuo-Tactile Fusion for Robot Teaching Recognition, IEEE Symposium Series on Computational Intelligence (SSCI) 2027
+- [2026/10] Solving Multi-Robot Task Allocation via Dual-Space Niching Particle Swarm Optimization, Swarm and Evolutionary Computation
+- [2026/08] GeoSDF-Diff: Geometry-Aware Diffusion Planning for Collision-Free Trajectories, International Conference on Neural Information Processing (ICONIP) 2026
+- [2026/07] MAPF-World: Action World Model for Multi-Agent Path Finding, IEEE Robotics and Automation Letters (RA-L)
+- [2026/07] Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation, Robotics: Science and Systems (RSS) 2026 Workshop
+- [2026/06] BrainStack: Neuro-MoE with Functionally Guided Expert Routing for EEG-Based Language Decoding, IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) Findings 2026
+- [2026/05] An Empirical Study of Multi-Agent Collaboration for Automated Research, International Conference on Swarm Intelligence (ICSI) 2026
+- [2026/04] Self-Adaptive Low-Rank Adaptation for Class-Incremental Learning, International Conference on Pattern Recognition (ICPR) 2026
 
 <!-- {% include_relative _includes/publications.md %} -->
 
