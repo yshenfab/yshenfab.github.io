@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Program Committee & Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  AAAI, AAMAS, ICRA, SSCI, DMBD
+  AAAI, AAMAS, ICRA, SSCI, DMBD, IJCAI
   <!-- <li><a href="https://aaai.org/conference/aaai/aaai-27/"><autocolor>AAAI</autocolor></a></li> -->
   <!-- <li><a href="https://2026.ieee-icra.org/"><autocolor>ICRA</autocolor></a></li> -->
   <!-- <li><a href="https://roboticsconference.org/"><autocolor>RSS</autocolor></a></li> -->
